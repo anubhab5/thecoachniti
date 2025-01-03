@@ -5,7 +5,9 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Rubik", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
   scroll-behavior: smooth;
 }
 
@@ -28,6 +30,7 @@ body {
   color: #f5f5f5;
   font-size: 1.1rem;
   margin: 0 10px;
+  letter-spacing: 1.5px;
   transition: color 0.3s ease-in-out, transform 0.2s;
 }
 
